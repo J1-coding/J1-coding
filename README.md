@@ -38,11 +38,11 @@
 <img src="https://img.shields.io/badge/Gazebo-529C52?style=for-the-badge&logo=gazebo&logoColor=white"/>
 </p>
 
-<h3 align="center"><b>🎨 3D Modelling and Graphics 🎨</b></h3>
+<h3 align="center"><b>🎨 Graphics 🎨</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Nvidia_Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rhino3D-801010?style=for-the-badge&logo=rhino&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/Rhino3D-801010?style=for-the-badge&logo=rhino&logoColor=white"/>-->
 <img src="https://img.shields.io/badge/WebGL-990099?style=for-the-badge&logo=webgl&logoColor=white"/>
 </p>
 
