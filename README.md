@@ -5,18 +5,15 @@
 </p>
 
 <h3 align="center"><b>Hi there 👋</b></h3>
-<h3 align="center"><b>Explore my Site</b></h3>
+<h3 align="center"><b>🖥️ Dive into My Tech Space 🖥️</b></h3>
 </br>
 <p align="center">
-  
 <a href="https://youtube.com/@jtotheone8129">
   <img src= "https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://youtube.com/@jtotheone8129">
 </a>
 <a href="mailto:gjeus0707@gmail.com">
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gjeus0707@gmail.com">
-</a>
-  
-	
+</a>	
 </p>
 
 <h3 align="center"><b>📚 Programming Languages 📚</b></h3>
