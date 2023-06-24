@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center"><b>Hi there 👋</b></h3>
-<h3 align="center"><b>🖥️ Dive into My Tech Space 🖥️</b></h3>
+<h3 align="center"><b>🌍 Dive into My Tech Space 🌍</b></h3>
 </br>
 <p align="center">
 <a href="https://youtube.com/@jtotheone8129">
@@ -22,10 +22,10 @@
 <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
-<h3 align="center"><b>💻 Operating Systems 💻</b></h3>
+<!--<h3 align="center"><b>💻 Operating Systems 💻</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</p>
+</p>-->
 
 <h3 align="center"><b>🔐 Database Management 🔐</b></h3>
 <p align="center">
@@ -51,9 +51,9 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<h3 align="center"><b>🌍 Geospatial Data Management 🌍</b></h3>
+<!--<h3 align="center"><b>🌍 Geospatial Data Management 🌍</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/OpenStreetMap-7EBB00?style=for-the-badge&logo=openstreetmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenStreetMap-7EBB00?style=for-the-badge&logo=openstreetmap&logoColor=white"/>-->
 </p>
 
 
