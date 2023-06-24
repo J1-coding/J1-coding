@@ -46,9 +46,9 @@
 <img src="https://img.shields.io/badge/WebGL-990099?style=for-the-badge&logo=webgl&logoColor=white"/>
 </p>
 
-<h3 align="center"><b>📦 Containerization and Version Control 📦</b></h3>
+<!--<h3 align="center"><b>📦 Containerization and Version Control 📦</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>-->
 </p>
 
 <!--<h3 align="center"><b>🌍 Geospatial Data Management 🌍</b></h3>
