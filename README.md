@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JaewonㅤKim&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JaewonㅤKim&fontSize=50"/>
 </p>
 
 <h3 align="center"><b>Hi there 👋</b></h3>
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
     </p>
 <!--
 **J1-coding/J1-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
