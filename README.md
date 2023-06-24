@@ -22,6 +22,20 @@
 <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
+<h3 align="center"><b>🎨 Graphics 🎨</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nvidia_Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-990099?style=for-the-badge&logo=webgl&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/Rhino3D-801010?style=for-the-badge&logo=rhino&logoColor=white"/>-->
+</p>
+
+<h3 align="center"><b>🤖 Robotics and Simulation 🤖</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gazebo-529C52?style=for-the-badge&logo=gazebo&logoColor=white"/>
+</p>
+
 <!--<h3 align="center"><b>💻 Operating Systems 💻</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -32,19 +46,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<h3 align="center"><b>🤖 Robotics and Simulation 🤖</b></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gazebo-529C52?style=for-the-badge&logo=gazebo&logoColor=white"/>
-</p>
-
-<h3 align="center"><b>🎨 Graphics 🎨</b></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nvidia_Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebGL-990099?style=for-the-badge&logo=webgl&logoColor=white"/>
-<!--<img src="https://img.shields.io/badge/Rhino3D-801010?style=for-the-badge&logo=rhino&logoColor=white"/>-->
-</p>
 
 <!--<h3 align="center"><b>📦 Containerization and Version Control 📦</b></h3>
 <p align="center">
