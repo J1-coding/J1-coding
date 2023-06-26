@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jaewon%20Kim's%20GitHub&fontSize=50"/>
 </p>
 <h3 align="center"><b>Welcome to my GitHub Profile</b></h3>
-<p align="center"><i>Passionate Developer | Experienced in Graphics & Robotics Simulation | Active Open Source Contributor</i></p>
+<p align="center"><i>Specialized in Graphics & Robotics Simulation</i></p>
 </br>
 <h3 align="center"><b>🛠️ Tech Stack 🛠️</b></h3>
 <h4 align="center"><b>Programming Languages</b></h4>
