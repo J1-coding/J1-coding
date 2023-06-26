@@ -4,7 +4,7 @@
 <h3 align="center"><b>Welcome to my GitHub Profile</b></h3>
 <p align="center"><i>Specialized in Graphics & Robotics Simulation</i></p>
 </br>
-<h3 align="center"><b>🛠️ Tech Stack 🛠️</b></h3>
+<h3 align="center"><b>🛠️ Tech Stack</b></h3>
 <h4 align="center"><b>Programming Languages</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -25,7 +25,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-<h3 align="center"><b>☎Contact</b></h3>
+<h3 align="center"><b>☎ Contact</b></h3>
 <p align="center">
 <!--
   <a href="https://youtube.com/@jtotheone8129">
