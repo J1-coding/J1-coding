@@ -4,6 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jaewon%20Kim's%20GitHub&fontSize=50"/>
 </p>
 
+<!--
 <h3 align="center"><b>Hi there 👋</b></h3>
 <h3 align="center"><b>🌍 Dive into My Tech Space 🌍</b></h3>
 </br>
@@ -15,6 +16,7 @@
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gjeus0707@gmail.com">
 </a>	
 </p>
+-->
 
 <h3 align="center"><b>📚 Programming Languages 📚</b></h3>
 <p align="center">
