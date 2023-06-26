@@ -25,7 +25,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-<h3 align="center"><b>Contact me 📞</b></h3>
+<h3 align="center"><b>☎Contact</b></h3>
 <p align="center">
 <!--
   <a href="https://youtube.com/@jtotheone8129">
