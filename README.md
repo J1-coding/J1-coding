@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jaewon Kim'sㅤGitHub&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jaewon Kim's GitHub&fontSize=50"/>
 </p>
 
 <h3 align="center"><b>Hi there 👋</b></h3>
