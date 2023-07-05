@@ -21,10 +21,12 @@
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gazebo-529C52?style=for-the-badge&logo=gazebo&logoColor=white"/>
 </p>
+<!--
 <h4 align="center"><b>Database Management</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+-->
 <br>
 <h4 align="center"><b>☎ Contact</b></h4>
 <p align="center">
