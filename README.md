@@ -18,7 +18,7 @@
 </p>
 <h4 align="center"><b>Robotics and Simulation</b></h4>
 <p align="center">
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gazebo-529C52?style=for-the-badge&logo=gazebo&logoColor=white"/>
 </p>
 <!--
