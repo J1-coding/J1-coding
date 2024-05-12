@@ -8,6 +8,8 @@
 <h4 align="center"><b>Programming Languages</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus/>
+ 
 <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 <h4 align="center"><b>Graphics</b></h4>
